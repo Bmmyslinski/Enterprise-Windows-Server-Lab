@@ -7,10 +7,10 @@ Install and configure Windows Server 2022 as the foundation for an enterprise Ac
 ## Completed
 
 - Installed Windows Server 2022
-- Configured networking
+- Configured static IPv4 addressing
 - Assigned a static IP address
 - Enabled Remote Desktop
-- Verified connectivity
+- Verified network connectivity using ping and DNS resolution
 
 ## Skills Learned
 
