@@ -31,3 +31,10 @@ BennyLab
     ├── IT
     ├── Management
     └── Sales
+```
+<img width="597" height="571" alt="Active directory structure" src="https://github.com/user-attachments/assets/21775b3b-4733-4e68-a655-7515d2899511" />
+## Domain Client Management
+
+A Windows 11 client was joined to the bennylab.local domain and centrally managed through Active Directory.
+
+The computer account was organized within the custom Computers OU, allowing computer-based Group Policy settings to be applied to the workstation.
